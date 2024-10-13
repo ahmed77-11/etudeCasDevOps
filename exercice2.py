@@ -12,5 +12,6 @@ print(a)
 b[0, 1] = 7
 print(f'b=\n{b}')
 print("changment par ahmed in feature 1")
+print("changment par ahmed dans feature2")
 
 
