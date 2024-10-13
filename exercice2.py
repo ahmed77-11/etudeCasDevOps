@@ -11,3 +11,6 @@ print(a)
 # Modification d'un élément d'un tableau bidimensionnel
 b[0, 1] = 7
 print(f'b=\n{b}')
+print("changment par ahmed in feature 1")
+
+
